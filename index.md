@@ -14,7 +14,11 @@ layout: default
 
 <br>
 
-{% include 04-lists.md %}
+- hello
+  - fhf
+  - fdgf
+- dfgdgd
+- apple
 
 <br>
 
